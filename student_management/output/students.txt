@@ -1,4 +1,0 @@
-10,Avnish Singh,ECE
-20,Anubhav Singh,EE
-30,Manoj Kumar,CE
-40,Aryan Kumar,MM
